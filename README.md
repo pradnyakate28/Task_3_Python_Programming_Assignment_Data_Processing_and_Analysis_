@@ -9,26 +9,26 @@ This repository contains solutions for the Python Programming Assignment based o
 
 📌The assignment focuses on applying core Python concepts such as:
 
-Lists
+1'Lists
 
-Dictionaries
+2.Dictionaries
 
-Strings
+3.Strings
 
-Loops
+4.Loops
 
 Conditional Statements
 
 📌 Problems Included
 
-Employee Performance Bonus Eligibility
+1.Employee Performance Bonus Eligibility
 
-Search Query Keyword Analysis
+2.Search Query Keyword Analysis
 
-Sensor Data Validation
+3.Sensor Data Validation
 
-Email Domain Usage Analysis
+4.Email Domain Usage Analysis
 
-Sales Spike Detection
+5.Sales Spike Detection
 
-Duplicate User ID Detection
+6.Duplicate User ID Detection
